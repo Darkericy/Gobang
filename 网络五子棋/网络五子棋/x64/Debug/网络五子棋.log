@@ -1,0 +1,4 @@
+﻿  chess.cpp
+E:\github\Gobang\网络五子棋\网络五子棋\chess.cpp(383,12): warning C4101: “msg”: 未引用的局部变量
+E:\github\Gobang\网络五子棋\网络五子棋\chess.cpp(401,50): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  网络五子棋.vcxproj -> E:\github\Gobang\网络五子棋\x64\Debug\网络五子棋.exe
